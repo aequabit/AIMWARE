@@ -4,6 +4,11 @@ using System.Windows.Forms;
 
 namespace v1go
 {
+    /**
+    * This is a recreation of the AIMWARE Loader, made by aequabit.
+    * Please don't steal this, it was a lot of work.
+    */
+    
     static class Program
     {
         /// <summary>
